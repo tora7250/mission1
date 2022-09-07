@@ -1,0 +1,7 @@
+<?php
+ $num=77;
+ echo $num;
+ echo "<br>";
+ $num= $num-76;
+ echo $num;
+ ?>
