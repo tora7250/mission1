@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>mission_1-13</title>
+
+</head>
+
+<body>
+
+
+
+</body>
+</html>
+<!DOCTYPE ht,l>
+<html lang="ja">
+    <head>
+        <mate chareset="UTF-8"></mate>
+        <title>mission1-13</title>
+    </head>
+    <body>
+        <?php
+         $name= "saika";
+         echo $name ."さん　こんにちは！    <br>";
+         $name = "maka";
+         echo $name ."さん　こんにちは！<br>"
+         ?>
+    </body>
+</html>
