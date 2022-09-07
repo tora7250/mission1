@@ -1,0 +1,5 @@
+<?php
+ $result = 77*77;
+ echo $result;
+ ?>
+    
