@@ -1,0 +1,8 @@
+<?php
+
+    $number = 5;
+    echo $number;
+    echo "<br>";
+    $number = 777;
+    echo $number;
+?>
