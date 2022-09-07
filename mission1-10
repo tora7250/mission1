@@ -1,0 +1,17 @@
+<?php
+$result_a =7+7;
+$result_b=7-7;
+$result_c=7*7;
+$result_d=7/7;
+$result_e=7%3;
+echo $result_a;
+echo "<br>";
+echo $result_b;
+echo "<br>";
+echo $result_c;
+echo "<br>";
+echo $result_d;
+echo "<br>";
+echo $result_e;
+echo "<br>";
+?>
