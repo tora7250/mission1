@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <mate cherset="UTF-8"></mate>
+        <title>mission_1-3</title>
+    </head>
+     <?php
+       echo "Hello Word";
+       echo "<br>";
+       echo "こんにちは";
+       ?>
+</html>
