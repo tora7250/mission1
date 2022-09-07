@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <mate carset="UTF-8"></mate>
+        <title>mission_1-5</title>
+    </head>
+    <body>
+     あいうえお<br>
+     かきくけこ<br>
+     <?php
+      echo "さしすせそ";
+      echo "<br>";
+      ?>
+      たちつてと<br>
+      なにぬねの<br>
+    </body>
+</html>
